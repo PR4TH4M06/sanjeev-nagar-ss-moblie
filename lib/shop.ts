@@ -12,7 +12,7 @@ export const shop = {
   phoneTel: "+918956944121",
   whatsapp: "918956944121",
   whatsappDisplay: "+91 89569 44121",
-  instagram: "https://www.instagram.com/ss_mobile_ashoknagar?srtk=MWMzdXQ2ZDZ6MGt4dg==",
+  instagram: "https://www.instagram.com/ssmobilesanjeevnagar?cplk=MXZrNndqYWdkcm03aw==",
   ownerInstagram: "https://www.instagram.com/avinash_dugdhe?xtok=MTVtc2JsMDRmc2R6MQ==",
   ownerInstagramLabel: "Avinash Dugdhe",
   secondOwnerInstagram: "",
